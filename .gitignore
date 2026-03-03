@@ -1,0 +1,22 @@
+# Archives (not part of source)
+*.zip
+
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
